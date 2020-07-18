@@ -1,6 +1,4 @@
-## Hello World!
-    
-This is a work in progress.  I'm still trying to get settled.  I think I may have configured things correctly.  Here are some other links/projects that I've made.
+This website is a work in progress.  I'm still trying to get settled.  Here are some other links/projects that I've made:
 
 [Blog - blog.robertmparker.com](https://blog.robertmparker.com)
 
